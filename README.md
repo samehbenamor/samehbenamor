@@ -31,6 +31,7 @@
 ### Technologies & Frameworks
 [![Symfony](https://img.shields.io/badge/symfony-black?style=for-the-badge&logo=symfony)](https://github.com/samehbenamor)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/samehbenamor)
+[![Javafx](https://img.shields.io/badge/javafx-black?style=for-the-badge&logo=javafx)](https://github.com/samehbenamor)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/samehbenamor)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/samehbenamor)
 
