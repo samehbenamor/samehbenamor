@@ -21,7 +21,7 @@
  </p> 
  
 ### Languages
-[![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascipt)](https://github.com/samehbenamor)
+[![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/samehbenamor)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/samehbenamor)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/samehbenamor)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/samehbenamor)
