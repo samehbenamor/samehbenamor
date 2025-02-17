@@ -1,60 +1,77 @@
-<h1 align="center">Hello!
+<h1 align="center">Hi there! 👋</h1>
 <p align="center">
-  Welcome to my profile</p>
- <p align="center"><span>I am <b>Sameh</b></span>.<br>
- <i>
-   Currently learning to MERN my way to web development.<br>
-   Open to all sorts of collaborations especially when it comes to web dev!<br><br>
- </i>
-   <a href="https://www.linkedin.com/in/sameh-ben-amor-0a3846281/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-  <a href="mailto:sameh.benamor@esprit.tn">
-        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
-    </a>
-   <a href="https://www.instagram.com/nocturnalmelophile/">
-        <img src="https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram&logoColor=white" alt="instagram">
-    </a>
-    <a href="https://soundcloud.com/blueanddizzy">
-        <img src="https://img.shields.io/badge/Soundcloud-orange?style=flat-square&logo=Soundcloud&logoColor=white" alt="instagram">
-    </a>
- </p> 
- 
-### Languages
-[![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/samehbenamor)
-[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/samehbenamor)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/samehbenamor)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/samehbenamor)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/samehbenamor)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/samehbenamor)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/samehbenamor)
-
-### Technologies & Frameworks
-[![Symfony](https://img.shields.io/badge/symfony-black?style=for-the-badge&logo=symfony)](https://github.com/samehbenamor)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/samehbenamor)
-[![Javafx](https://img.shields.io/badge/javafx-black?style=for-the-badge&logo=javafx)](https://github.com/samehbenamor)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/samehbenamor)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/samehbenamor)
-
-### OS
-[![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows)](https://github.com/samehbenamor)
-[![ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu)](https://github.com/samehbenamor)
-
-
-<details>
-<p align="center">
-  <a href="https://github.com/samehbenamor">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samehbenamor&theme=transparent" />
-  </a>
-  <a href="https://github.com/samehbenamor">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samehbenamor&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/samehbenamor">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samehbenamor&theme=transparent" />
-  </a>
-  
+  <b>Welcome to my GitHub profile!</b><br>
+  I'm <strong>Sameh</strong>, a passionate developer and tech enthusiast with expertise in a wide range of technologies.
 </p>
-</details>
 
+---
 
+### 🚀 About Me
+- 💻 Full-stack developer experienced in **MERN** and **MEAN** stacks.
+- 🎮 Game developer with proficiency in **Unity** and **C#**.
+- 🎵 Music producer using **FL Studio** and **Ableton Live**.
+- 📱 Mobile app developer skilled in **React Native**, **Kotlin**, and **SwiftUI**.
+- 🌱 Currently learning and expanding my knowledge in **web development** and modern frameworks.
+- 🤝 Open to collaborations on web development, game design, or innovative projects.
 
+---
+
+### 🛠️ Skills & Technologies
+
+#### **Programming Languages**
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/samehbenamor)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/samehbenamor)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/samehbenamor)
+[![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/samehbenamor)
+[![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://github.com/samehbenamor)
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/samehbenamor)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/samehbenamor)
+
+#### **Frameworks & Tools**
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/samehbenamor)
+[![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs)](https://github.com/samehbenamor)
+[![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/samehbenamor)
+[![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/samehbenamor)
+[![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](https://github.com/samehbenamor)
+[![SwiftUI](https://img.shields.io/badge/swiftui-black?style=for-the-badge&logo=swift)](https://github.com/samehbenamor)
+[![Expo](https://img.shields.io/badge/expo-black?style=for-the-badge&logo=expo)](https://github.com/samehbenamor)
+
+#### **Development Environments**
+[![Visual Studio Code](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visualstudiocode)](https://github.com/samehbenamor)
+[![Visual Studio](https://img.shields.io/badge/visual%20studio-black?style=for-the-badge&logo=visualstudio)](https://github.com/samehbenamor)
+[![Android Studio](https://img.shields.io/badge/android%20studio-black?style=for-the-badge&logo=androidstudio)](https://github.com/samehbenamor)
+
+#### **Music Production**
+[![FL Studio](https://img.shields.io/badge/fl%20studio-black?style=for-the-badge&logo=flstudio)](https://github.com/samehbenamor)
+[![Ableton Live](https://img.shields.io/badge/ableton%20live-black?style=for-the-badge&logo=ableton)](https://github.com/samehbenamor)
+
+#### **Operating Systems**
+[![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows)](https://github.com/samehbenamor)
+[![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu)](https://github.com/samehbenamor)
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samehbenamor&theme=transparent" alt="Profile Summary" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samehbenamor&hide_border=true&theme=transparent" alt="GitHub Streak" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samehbenamor&theme=transparent" alt="Stats Card" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sameh-ben-amor-0a3846281/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:sameh.benamor@esprit.tn">
+    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.instagram.com/nocturnalmelophile/">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://soundcloud.com/blueanddizzy">
+    <img src="https://img.shields.io/badge/Soundcloud-orange?style=for-the-badge&logo=Soundcloud&logoColor=white" alt="Soundcloud">
+  </a>
+</p>
