@@ -53,9 +53,13 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samehbenamor&theme=transparent" alt="Profile Summary" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samehbenamor&hide_border=true&theme=transparent" alt="GitHub Streak" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samehbenamor&theme=transparent" alt="Stats Card" />
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samehbenamor&theme=transparent" />
+  
+
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samehbenamor&layout=compact&theme=transparent)" />
+
+
 </p>
 
 ---
